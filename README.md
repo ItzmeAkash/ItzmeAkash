@@ -1,4 +1,4 @@
-[![MasterHead](https://sfdcvets.files.wordpress.com/2019/03/hello-world.gif)]
+![MasterHead](https://sfdcvets.files.wordpress.com/2019/03/hello-world.gif)]
 
 <h1 align="center">Hi 👋, I'm Akash P s</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
