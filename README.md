@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **ML Engineer , AL/DL Engineer ,Full Stack Web Developer , Python Developer**
+- 💬 Ask me about **As a proficient developer specializing in full-stack web development and artificial intelligence, I am enthusiastic about constructing scalable distributed systems. I excel in problem-solving, emphasizing the creation of clean and maintainable code. With adaptability across various platforms, I am keen to contribute to a company fostering continuous learning in both full-stack web development and AI. My objective is to deliver meaningful contributions while advancing my education and expertise**
 
 - 📫 How to reach me **itzmeakashps@gmail.com**
 
